@@ -1,0 +1,76 @@
+INFO: 10-Apr-22 13:44:22 	Generating Default Group
+INFO: 10-Apr-22 13:44:22 	Created Site Settings: 
+ language='en-US' first_day_of_week=0 show_recent=True cards_per_section=9 categories=[]
+INFO: 10-Apr-22 13:44:22 	Generating Default User
+INFO: 10-Apr-22 13:44:24 	Checking for Images to Minify...
+INFO: 10-Apr-22 13:44:24 	Finished Minification Check
+INFO: 10-Apr-22 13:44:26 	----INIT SCHEDULE OBJECT-----
+INFO: 10-Apr-22 13:44:26 	None
+INFO: 10-Apr-22 13:44:26 	-----SYSTEM STARTUP----- 
+
+INFO: 10-Apr-22 13:44:26 	------APP SETTINGS------
+INFO: 10-Apr-22 13:44:26 	{
+    "PRODUCTION": true,
+    "BASE_URL": "http://localhost:8080",
+    "IS_DEMO": false,
+    "API_PORT": 9000,
+    "API_DOCS": true,
+    "DB_ENGINE": "postgres",
+    "POSTGRES_SERVER": "postgres",
+    "POSTGRES_PORT": "5432",
+    "POSTGRES_DB": "mealie",
+    "DB_URL_PUBLIC": "postgresql://*****:*****@postgres:5432/mealie",
+    "DEFAULT_GROUP": "Home",
+    "DEFAULT_EMAIL": "changeme@email.com",
+    "LDAP_AUTH_ENABLED": false,
+    "LDAP_SERVER_URL": null,
+    "LDAP_BIND_TEMPLATE": null,
+    "LDAP_ADMIN_FILTER": null,
+    "TOKEN_TIME": 2,
+    "RECIPE_PUBLIC": true,
+    "RECIPE_SHOW_NUTRITION": true,
+    "RECIPE_SHOW_ASSETS": true,
+    "RECIPE_LANDSCAPE_VIEW": true,
+    "RECIPE_DISABLE_COMMENTS": false,
+    "RECIPE_DISABLE_AMOUNT": false,
+    "AUTO_BACKUP_ENABLED": false,
+    "SCHEDULER_DATABASE": "sqlite:////app/data/scheduler.db"
+}
+INFO: 10-Apr-22 13:54:06 	Generating Default Group
+INFO: 10-Apr-22 13:54:06 	Created Site Settings: 
+ language='en-US' first_day_of_week=0 show_recent=True cards_per_section=9 categories=[]
+INFO: 10-Apr-22 13:54:06 	Generating Default User
+INFO: 10-Apr-22 13:54:08 	Checking for Images to Minify...
+INFO: 10-Apr-22 13:54:08 	Finished Minification Check
+INFO: 10-Apr-22 13:54:10 	----INIT SCHEDULE OBJECT-----
+INFO: 10-Apr-22 13:54:10 	None
+INFO: 10-Apr-22 13:54:10 	-----SYSTEM STARTUP----- 
+
+INFO: 10-Apr-22 13:54:10 	------APP SETTINGS------
+INFO: 10-Apr-22 13:54:10 	{
+    "PRODUCTION": true,
+    "BASE_URL": "http://localhost:8080",
+    "IS_DEMO": false,
+    "API_PORT": 9000,
+    "API_DOCS": true,
+    "DB_ENGINE": "postgres",
+    "POSTGRES_SERVER": "postgres",
+    "POSTGRES_PORT": "5432",
+    "POSTGRES_DB": "mealie",
+    "DB_URL_PUBLIC": "postgresql://*****:*****@postgres:5432/mealie",
+    "DEFAULT_GROUP": "Home",
+    "DEFAULT_EMAIL": "changeme@email.com",
+    "LDAP_AUTH_ENABLED": false,
+    "LDAP_SERVER_URL": null,
+    "LDAP_BIND_TEMPLATE": null,
+    "LDAP_ADMIN_FILTER": null,
+    "TOKEN_TIME": 2,
+    "RECIPE_PUBLIC": true,
+    "RECIPE_SHOW_NUTRITION": true,
+    "RECIPE_SHOW_ASSETS": true,
+    "RECIPE_LANDSCAPE_VIEW": true,
+    "RECIPE_DISABLE_COMMENTS": false,
+    "RECIPE_DISABLE_AMOUNT": false,
+    "AUTO_BACKUP_ENABLED": false,
+    "SCHEDULER_DATABASE": "sqlite:////app/data/scheduler.db"
+}
